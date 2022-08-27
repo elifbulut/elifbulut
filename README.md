@@ -6,7 +6,7 @@
  <div align="center">
   
 # 💫Hi! I'm Elif :
-🔭 I'm Elifnur Bulut, a passionate Ios Developer 💻.
+🔭 I'm Elifnur Bulut 💻.
   
 🌱 I’m currently learning : Swift. 
 
