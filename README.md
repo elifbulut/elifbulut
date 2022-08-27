@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
 
-<!--
-**elifbulut/elifbulut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <div align="center">
+  
+# 💫Hi! I'm Elif :
+🔭 I'm Elifnur Bulut, a passionate Ios Developer 💻.
+  
+🌱 I’m currently learning : Swift. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ❤️ I'm passionate IOS developer
+
+  
